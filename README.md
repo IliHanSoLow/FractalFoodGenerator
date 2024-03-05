@@ -1,1 +1,2 @@
 # FractalFoodGenerator
+[./fractalFood.png]
