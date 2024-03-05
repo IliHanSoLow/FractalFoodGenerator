@@ -1,2 +1,2 @@
 # FractalFoodGenerator
-[./fractalFood.png]
+![](./fractalFood.png)
