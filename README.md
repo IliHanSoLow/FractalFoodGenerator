@@ -5,11 +5,11 @@ I was bored and than this happened
 
 ---
 
-#### Me:
+### Me:
 
 I am quite hungry and I want to programm. Give me one single crazy project for me to develop. With details. Complexity doesnt matter. I also want to do some math.
 
-#### _Some_ LLM:
+### _Some_ LLM:
 
 How about creating a "Fractal Food Generator" using a combination of programming and mathematics? This project will not only satisfy your hunger but also challenge your coding skills and mathematical understanding. Here's a detailed outline for the project:
 
@@ -54,6 +54,6 @@ Allow users to manipulate parameters of the fractal equation and observe how it 
 
 Remember to document your code well, share your progress, and enjoy the creative process of combining programming and mathematics in a tasty project!
 
-#### Me:
+### Me:
 
 Remember to document your code well ... nah
