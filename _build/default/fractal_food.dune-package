@@ -1,0 +1,4 @@
+(lang dune 3.14)
+(name fractal_food)
+(sections (lib .) (bin ../../bin) (doc ../../doc/fractal_food))
+(files (lib (META dune-package opam)) (bin (fractal_food)) (doc (README.md)))

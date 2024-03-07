@@ -1,0 +1,23 @@
+# dune build
+# OCAMLPARAM: unset
+# Shared cache: disabled
+# Shared cache location: /home/ilian/.cache/dune/db
+# Workspace root: /bigssd/Dokumente/git/fractal_food_generator
+# Auto-detected concurrency: 16
+# Dune context:
+#  { name = "default"
+#  ; kind = "default"
+#  ; profile = Dev
+#  ; merlin = true
+#  ; fdo_target_exe = None
+#  ; build_dir = In_build_dir "default"
+#  ; installed_env =
+#      map
+#        { "INSIDE_DUNE" :
+#            "/bigssd/Dokumente/git/fractal_food_generator/_build/default"
+#        ; "OCAML_COLOR" : "always"
+#        ; "OPAMCOLOR" : "always"
+#        }
+#  ; instrument_with = []
+#  }
+$ /home/ilian/.opam/boocaml/bin/ocamlc.opt -config > /run/user/1000/dune_4dfc48_output

@@ -1,0 +1,4 @@
+(executable
+ (public_name fractal_food)
+ (name main)
+ (libraries fractal_food tsdl))
